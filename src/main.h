@@ -1,12 +1,11 @@
 //
-// Created by Konstantin Gredeskoul on 10/7/18.
+// PH30110 – Computational Astrophysics.
 //
 
 #ifndef PROJECT_MAIN_H
 #define PROJECT_MAIN_H
 
-static const char *const HEADER = "\nDivider © 2018 Monkey Claps Inc.\n\n";
-static const char *const USAGE = "Usage:\n\tdivider <numerator> <denominator>\n\nDescription:\n\tComputes the result of a fractional division,\n\tand reports both the result and the remainder.\n";
-
+static const char *const HEADER = "\nPH30110 Coursework – 23770.\n\n";
+static const char *const USAGE = "Usage:\n\tcoursework <seed> <a> <c> <m> \n\nDescription:\n\tComputes the result of a given seed,\n\tand reports the list of random numbers.\n";
 
 #endif //PROJECT_MAIN_H
